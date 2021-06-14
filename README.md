@@ -1,4 +1,4 @@
-# Project1-Compi
+# Project2-Compi
 Students:
 Jose Pablo Fernández Cubillo, 2019047740
 Roberto Vidal Patiño, 2019065537

@@ -1,0 +1,6 @@
+a := 57;
+b := 34;
+c := (print(a,b), a + b);
+print(a,b,c);
+d := a + b + (a := b, (b := c, 5));
+print((e := a, b + c), d)
